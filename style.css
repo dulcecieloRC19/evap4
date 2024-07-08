@@ -1,0 +1,33 @@
+table{
+    justify-content: center;
+    text-align: center;
+}
+footer{
+    background-color: rgb(53, 53, 110);
+    padding: 30px;
+}
+#pie{
+    display: flex;
+    flex-direction: row;
+}
+.he{
+    display: flex;
+    flex-direction: column;
+}
+.he a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin: 20px;
+    text-decoration: none;
+    
+}
+.he a:hover {
+    color: rgb(250, 245, 245);
+    text-decoration: underline;
+}
+h5{
+    font-family: Fjalla Uno;
+}
+li{
+ font-family: Fjalla Uno;
+}
